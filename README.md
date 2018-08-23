@@ -5,7 +5,7 @@
 
 1. Клонирование проекта к себе на ПК               
 ```sh
-git clone github.com/victorsharamet/js-pattern-module.git
+git clone https://github.com/victorsharamet/counter.git
 ```
 
 2. Переходим в созданную папку
